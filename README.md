@@ -8,7 +8,7 @@
 ## 実行方法
 
 ```
-nohup sh exp.sh &
+nohup sh example_exp.sh &
 ```
 
 ## 仕組み
